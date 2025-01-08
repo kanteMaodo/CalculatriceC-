@@ -1,0 +1,10 @@
+C:\Users\bmd tech\source\repos\factorielleTD\CalculatriceApp\bin\Debug\CalculatriceApp.exe.config
+C:\Users\bmd tech\source\repos\factorielleTD\CalculatriceApp\bin\Debug\CalculatriceApp.exe
+C:\Users\bmd tech\source\repos\factorielleTD\CalculatriceApp\bin\Debug\CalculatriceApp.pdb
+C:\Users\bmd tech\source\repos\factorielleTD\CalculatriceApp\obj\Debug\CalculatriceApp.csproj.AssemblyReference.cache
+C:\Users\bmd tech\source\repos\factorielleTD\CalculatriceApp\obj\Debug\CalculatriceApp.Calcuratice.resources
+C:\Users\bmd tech\source\repos\factorielleTD\CalculatriceApp\obj\Debug\CalculatriceApp.Properties.Resources.resources
+C:\Users\bmd tech\source\repos\factorielleTD\CalculatriceApp\obj\Debug\CalculatriceApp.csproj.GenerateResource.cache
+C:\Users\bmd tech\source\repos\factorielleTD\CalculatriceApp\obj\Debug\CalculatriceApp.csproj.CoreCompileInputs.cache
+C:\Users\bmd tech\source\repos\factorielleTD\CalculatriceApp\obj\Debug\CalculatriceApp.exe
+C:\Users\bmd tech\source\repos\factorielleTD\CalculatriceApp\obj\Debug\CalculatriceApp.pdb
